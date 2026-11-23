@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xscriptsz/Noctra/refs/heads/main/mm2.lua"))()
+loadstring(game:HttpGet("https://koons.wtf/run/eyJpZCI6Imtvb25zXzBmMmY2ODljMjJkNGQ4NDYiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veHNjcmlwdHN6L05vY3RyYS9yZWZzL2hlYWRzL21haW4vbW0yLmx1YSJ9fQ==",true))()
